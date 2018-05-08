@@ -1,5 +1,5 @@
 ## jQuery-Price-Range-Slider
-> Complete, effective and fast jQuery price range slider which can be used for other purposees with little customization. 
+> Complete, effective and fast jQuery price range slider which can be used for other purposes with little customization. 
 
 Check out the [Demo](https://codepen.io/GoldenGate/pen/BxmWwN)
 
