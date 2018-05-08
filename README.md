@@ -1,12 +1,7 @@
 ## jQuery-Price-Range-Slider
 > Complete, effective and fast jQuery price range slider 
 
-Check out the [Demo](https://codepen.io/GoldenGate/pen/BxmWwN)
-
-* Touchscreen friendly
-* Recalculates `onresize` so suitable for use within responsive designs
-* Small and fast
-* Supports all major browsers including IE8+
+  Check out the [Demo](https://codepen.io/GoldenGate/pen/BxmWwN)
 
 ## Features
 
@@ -15,7 +10,7 @@ Check out the [Demo](https://codepen.io/GoldenGate/pen/BxmWwN)
 * Taking user defined range value in textbox which is not available in most of range sliders.
 * Tight validation on user defined inputs (No negative values, only accept numbers, values only specified min and max value range).
 * Prevent jQuery UI slider handles overlapping.
-* Defined slider range each step to point nice values like 100 or 200 or 500 or 1000
+* Defined slider range each step to point nice values like 100 or 200 or 500 or 1000.
 * Simple code. At just about 80 lines of jQuery, including the initial properties and properties panel, it should be pretty easy to read through if you want to customize it.
 
 ## Settings
