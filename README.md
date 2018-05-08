@@ -23,5 +23,5 @@ Add the following libraries to the page:
 Add the following stylesheets to the page:
  * jquery-ui.css
  
-Min and Max - The min and max values of the range. These are set manually because it's a simple way to make sure the slider is not adversely affected by any selections already made when the slider object loads. Step - This is how much the slider will step by.
+Min and Max - The min and max values of the range. These are set manually because it's a simple way to make sure the slider is not adversely affected by any selections already made when the slider object loads.
 
