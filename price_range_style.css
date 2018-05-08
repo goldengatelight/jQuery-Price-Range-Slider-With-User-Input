@@ -1,5 +1,5 @@
 .price-range-block {
-  margin:60px;
+    margin:60px;
 }
 
 .sliderText{
@@ -7,7 +7,7 @@
     margin-bottom:30px;
     border-bottom: 2px solid red;
     padding: 10px 0 10px 0px;
-	font-weight:bold;
+    font-weight:bold;
 }
 
 .ui-slider-horizontal {
@@ -20,7 +20,6 @@
 .ui-widget-header {
     background: #3FE331;
 }
-
 
 .price-range-search {
     width:40.5%; 
@@ -47,8 +46,8 @@
     padding:5px;
 }
 .search-results-block{
-  position: relative;
-  display: block;
-  clear: both;
+    position: relative;
+    display: block;
+    clear: both;
 }
 
